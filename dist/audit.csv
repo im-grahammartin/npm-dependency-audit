@@ -959,4 +959,9 @@ webpack-modernizr-loader,im-pack,4.0.1,4.0.1,5.0.0,dependencies,false,true,true,
 ,wcp-core,4.0.1,4.0.1,5.0.0,devDependencies,false,false,false,false,false,,https://github.com/itgalaxy/webpack-modernizr-loader
 webpack-require-from,im-pack,1.5.0,1.8.1,1.8.1,dependencies,false,false,false,false,false,,https://github.com/agoldis/webpack-require-from#readme
 ,wcp-core,1.8.0,1.8.1,1.8.1,dependencies,false,false,false,false,false,,https://github.com/agoldis/webpack-require-from#readme
-webpack-stats-plugin,im-pack,0.2.1,0.2.1,0.3.1,dependencies,false,false,false,false,false,,https://github.com/Formida
+webpack-stats-plugin,im-pack,0.2.1,0.2.1,0.3.1,dependencies,false,false,false,false,false,,https://github.com/FormidableLabs/webpack-stats-plugin#readme
+webpackbar,im-pack,3.1.5,3.2.0,4.0.0,dependencies,false,false,false,false,false,,https://github.com/nuxt/webpackbar#readme
+,wcp-core,3.2.0,3.2.0,4.0.0,devDependencies,false,false,false,false,false,,https://github.com/nuxt/webpackbar#readme
+whatwg-fetch,wcp-core,2.0.4,2.0.4,3.0.0,dependencies,false,false,false,false,false,,https://github.com/github/fetch#readme
+xml2js,im-fabric-ui-automation-framework,0.4.19,0.4.23,0.4.23,dependencies,false,false,false,false,false,,https://github.com/Leonidas-from-XIV/node-xml2js
+yarn,wcp-core,1.19.2,1.22.4,1.22.4,dependencies,false,false,false,false,false,,https://github.com/yarnpkg/yarn#readme
